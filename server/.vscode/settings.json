@@ -3,6 +3,7 @@
     "codepaths",
     "lcov",
     "Marcio",
+    "postgresql",
     "Serializers",
     "tsbuildinfo",
     "unmocked"
